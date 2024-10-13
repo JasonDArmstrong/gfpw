@@ -2,8 +2,7 @@
 
 A Bash script to generate random passwords with configurable password policies. Supports specifying password length, character sets, and the number of passwords to generate, with cryptographically secure randomness provided by gpg
 
-```markdown
-# GFPW - A Random Password Generator
+## GFPW - A Random Password Generator
 
 `gfpw.sh` is a Bash script designed to generate random passwords with configurable password policies. The script supports various options such as specifying the length of passwords, the number of passwords to generate, and the inclusion of character types (uppercase, lowercase, numbers, and special characters).
 
