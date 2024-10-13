@@ -1,4 +1,6 @@
-### `README.md`:
+# gfpw
+
+A Bash script to generate random passwords with configurable password policies. Supports specifying password length, character sets, and the number of passwords to generate, with cryptographically secure randomness provided by gpg
 
 ```markdown
 # GFPW - A Random Password Generator
@@ -126,9 +128,9 @@ This project is open-source and available under the MIT License.
 ---
 
 Feel free to modify or extend this project as needed for your own use cases!
-```
 
-### Changes made:
+### Changes made
+
 - **Removed references to the test script** and testing process.
 - Retained sections on **features, usage**, and **error handling** to keep the focus on the functionality of the `gfpw.sh` script.
 

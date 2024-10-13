@@ -1,3 +1,5 @@
+# Giant Friendly Password Generator
+
 The summer of 1976 was the hottest in England since anyone could remember. The earth cracked beneath the weight of the sun, and the rivers, once so full of life, dried into thirsty veins of mud. The sky, hazy and unforgiving, hung over the land like an omen.
 
 In a small town, nestled between the chalky hills of southern England, there lived a man named John. John was not much of a hero. He had grown up like the rest, working odd jobs, moving through life with the pace of someone who expected little from the world and received less in return. But he was good with numbers. Always had been. Some called him a genius with codes, though John dismissed such talk. He was just John, a man with a mind that worked in patterns, shapes, and the subtle art of secrecy.
